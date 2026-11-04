@@ -11,4 +11,5 @@ dependencies = [
     "matplotlib",       # For plotting
     "torch",            # For deep learning 
     "notebook",         # For Jupyter notebooks
+    "datasets",         # For downloading ManyWells datasets
 ]
